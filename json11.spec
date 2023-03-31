@@ -4,7 +4,7 @@
 
 Name: json11
 Version: 1.0.0
-Release: 1
+Release: 2
 
 Summary: A tiny JSON library for C++11
 License: MIT
